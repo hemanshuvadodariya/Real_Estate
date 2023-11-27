@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Real_Estate", "..\..\..\Downloads\Real_Estate\Real_Estate\", "{00E48D0F-2FFB-42D1-B84B-5C4319DA7381}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_56138"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Downloads\Real_Estate\Real_Estate\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56138\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_56138"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Downloads\Real_Estate\Real_Estate\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_56138\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "56138"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00E48D0F-2FFB-42D1-B84B-5C4319DA7381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00E48D0F-2FFB-42D1-B84B-5C4319DA7381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE497129-B2DB-41BB-A278-64A41C5B1A51}
+	EndGlobalSection
+EndGlobal
